@@ -1,0 +1,29 @@
+{
+    "name": "TimeUnit.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rideg/TimeUnit.js.git"
+    },
+    "version": "0.0.1",
+    "author": "Sandor Rideg <sadnro.rideg@gmail.com>",
+    "description": "Simple time unit conversion library",
+    "contributors": [{
+        "name": "Sandor Rideg",
+        "email": "sandor.rideg@gmail.com"
+    }],
+    "keywords": [
+        "time",
+        "TimeUnit"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "latest",
+        "grunt-cli": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-contrib-jasmine": "latest",
+        "grunt-contrib-clean": "latest",
+        "grunt-contrib-jshint": "latest",
+        "grunt-contrib-uglify": "latest"
+    },
+    "license": "MIT"
+}
