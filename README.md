@@ -2,7 +2,7 @@ TimeUnit.js
 ===========
 
 Small time unit conversion library inspired by Java's TimeUnit
-
+> It is really small: **296 bytes** minified and gzipped
 
 Usage
 ====
