@@ -1,4 +1,4 @@
-window.TimeUnit = (function() {
+var TimeUnit = (function() {
     'use strict';
     var floor = Math.floor;
     return {
